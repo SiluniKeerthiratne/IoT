@@ -1,0 +1,5 @@
+train: /content/datasets/val/images  # Absolute path
+val: /content/datasets/val/images
+
+nc: 6  # Number of classes
+names: ['Caries', 'Infection', 'Impacted_Teeth', 'Fractured_Teeth', 'Broken_Down_Crown_Root', 'Healthy_Teeth']  # Class names
